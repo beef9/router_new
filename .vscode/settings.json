@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "queue.h": "c",
+        "ip_icmp.h": "c",
+        "atomic": "c",
+        "cstdint": "c",
+        "random": "c",
+        "*.tcc": "c",
+        "inet.h": "c",
+        "if.h": "c",
+        "in.h": "c",
+        "ip.h": "c"
+    }
+}

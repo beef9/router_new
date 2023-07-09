@@ -1,0 +1,7 @@
+Parsing ROUTING table
+Done parsing ROUTING table.
+Parsing ARP table
+IP: 192.168.2.2 MAC: de:ad:be:ef:00:02
+IP: 192.168.3.2 MAC: de:ad:be:ef:00:03
+Done parsing ARP table.
+Sucessfully started a new thread.
